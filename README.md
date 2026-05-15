@@ -2,7 +2,7 @@
 
 - Download Ultimate ASI Loader from [Asi loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
 - Put dinput8 in Binaries, create scripts or plugins folder in Binaries
-- Put EngineNew.asi in scripts or plugins folder
+- Put EngineNew.dll in scripts or plugins folder, rename EngineNew.dll to **EngineNew.asi**
 - Start your game and then press F1 to open/close menu
 - Go to any level and coords will pop up
 
