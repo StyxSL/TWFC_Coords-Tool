@@ -12,8 +12,8 @@
 - Automatically resets if player has not spawned yet
 
 ### Known Bugs:
-- Sometimes menu can glitch or freeze, just press F1 to close it then open again
-- For unknown reason coords won't work properly in 2 maps from Escalation game mode: **Pulse** & **District** (Just a guess. I think because these maps have special pre-Spawn point. Will investigate it)
+- ~~Sometimes menu can glitch or freeze, just press F1 to close it then open again~~ **[Fixed]**
+- For unknown reason coords won't work properly in 2 maps from Escalation game mode: **Pulse** & **District** (Just a guess. I think because these maps have special pre-Spawn point.
 
 # Unable to load Engine.asi. Error: 126
 ![cd7f94d7a0616aa4](https://github.com/StyxSL/TWFC-FPS-Unlocker/assets/110573163/bb59055b-501c-4e80-b6be-ea9c7586333b)
